@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/master_list_fragment"
+    android:name="com.example.android.android_me.ui.MasterListFragment">
+    <!-- Cuando se ejecuta este fragment layout, ejecuta la clase MasterListFragment inflate el GridView fragment_master_list
+        y lo llena con todas las imagenes de la lista de ids imagenes que provee la clase AndroidImageAssets
+    -->
+
+</fragment>
